@@ -24,9 +24,7 @@
 🚀 Interested in
 - Full Stack Development
 - Java Backend Development
-- Blockchain Applications
-- Machine Learning
-- Cloud Technologies
+
 
 💡 I believe every project teaches something new.
 
